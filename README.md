@@ -1,1 +1,1 @@
-# --chrome-extension-web-scraper
+# chrome-extension-web-scraper
